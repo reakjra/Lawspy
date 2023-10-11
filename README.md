@@ -1,2 +1,1 @@
-# Lawspy
-A calculator for some basics laws. (Made for testing my abilities and knowledge with python)
+made just for practicing in python
