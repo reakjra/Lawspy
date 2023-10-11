@@ -1,2 +1,2 @@
 # Lawspy
-A calculator for some basics laws. 
+A calculator for some basics laws. (Made for testing my abilities and knowledge with python)
